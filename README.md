@@ -1,6 +1,6 @@
 # labspy03
 # Bahasa Pemrograman
-# perulangan by Rizky Sulirahmawati 312110247
+# perulangan by Gede Krishna , 311910429
 
 latihan 1
 
